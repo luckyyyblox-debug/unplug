@@ -6,7 +6,7 @@ targets:
     type: application
     platform: iOS
     deploymentTarget: "15.0"
-    sources: [unplug ipa]
+    sources: [unplug.swift]
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.unplug.app
